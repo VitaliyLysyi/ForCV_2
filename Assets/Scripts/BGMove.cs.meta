@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1c8f1f71692d7b41ae183661963a295
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawnPoint: {instanceID: 0}
+  - MapSample1: {fileID: 1879405602118184687, guid: c1618c56282e8a24aade1566016f0b50, type: 3}
+  - MapSample2: {fileID: 6956288198513145633, guid: 91edb05578377c3418df3b327459e6a5, type: 3}
+  - MapSample3: {fileID: 6320928626144349517, guid: 3f69d2f820b730f4faf867cce3b12f8e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
